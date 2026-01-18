@@ -1,5 +1,5 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/universal:dev-linux",
+    "image": "mcr.microsoft.com/devcontainers/universal:linux",
     "hostRequirements": {
         "cpus": 2,
         "memory": "8gb",
